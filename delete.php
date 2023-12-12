@@ -22,7 +22,3 @@ mysqli_close($con);
 
 
 
-
-//delete olou tou pinaka
-$sql= "DELETE FROM emploee";
-$result = mysqli_query($con, $sql);
